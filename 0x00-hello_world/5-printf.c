@@ -1,10 +1,11 @@
 #include<stdio.h>
+
 /**
-*main-main block 
-*Return:0
-*/
+ *main - print the phrase i'am a piece of art,
+ *Return: 0
+ */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");
+printf("with proper grammar, but the outcome is a pieceof art,\n");
 return (0);
 }
