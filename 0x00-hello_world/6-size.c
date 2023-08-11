@@ -1,8 +1,7 @@
 #include <stdio.h>
-
 /**
  * main - prints the sizes of all
- * Return:0 Always 
+ *Return: 0
  */
 int main(void)
 {
