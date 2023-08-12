@@ -6,7 +6,7 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{7
+{
 	char ch = 'a';
 		while (ch <= 'Z')
 		{
