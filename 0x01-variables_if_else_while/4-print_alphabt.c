@@ -2,12 +2,12 @@
 
 /**
  * main - prints the alphabet in lowercase,
- * followed by a new line 
+ * followed by a new line
  * Return: Always 0 (Success)
  */
 int main(void)
-{
-	char ch = 'a'
+{7
+	char ch = 'a';
 		while (ch <= 'Z')
 		{
 			if (ch != 'e' && ch != 'q')
@@ -18,3 +18,4 @@ int main(void)
 		}
 	putchar('\n');
 	return (0);
+}
