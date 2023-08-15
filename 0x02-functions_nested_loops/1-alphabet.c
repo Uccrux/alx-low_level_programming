@@ -10,7 +10,9 @@ int main(void)
 {
 	int i;
 
-	for (i = a; i <= z; i++)
-		_printchar(i)
+	for (i = 'a'; i <= 'z'; i++)
+		_putchar(i)
+			putchar('\n');
 	return (0);
+
 }
