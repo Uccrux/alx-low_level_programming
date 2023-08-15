@@ -4,7 +4,8 @@
  * @n: integer
  * Return: return absolute valuer of a number
  */
-iny _abs(int n)
+int _abs(int n)
+
 {
 	if (n < 0)
 	{
