@@ -2,7 +2,6 @@
 
 /**
  * print_sign - sign of a number.
- *7 
  * @n: n is integer
  * Return: 1 +, cer0 , -1.
  */
