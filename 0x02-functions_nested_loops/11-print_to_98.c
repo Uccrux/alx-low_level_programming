@@ -1,9 +1,9 @@
 #include "main.h"
-#include<stdio.h>
+#include <stdio.h>
 /**
- * print_to_98 - fron n to 98
+ * print_to_98 - from n to 98
  * @n: integer
- * followed by a new line 
+ *
  * Return: this function print from n to 98
  */
 void print_to_98(int n)
@@ -24,11 +24,12 @@ void print_to_98(int n)
 		for (; n >= 98; n--)
 		{
 			printf("%d", n);
-				if (n != 98)
-				{
-					printf(", ");
-				}
+			if (n != 98)
+			{
+				printf(", ");
+			}
 		}
 	}
-	printf('\n');
+
+	printf("\n");
 }
