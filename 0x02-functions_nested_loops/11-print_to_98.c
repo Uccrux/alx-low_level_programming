@@ -30,5 +30,5 @@ void print_to_98(int n)
 				}
 		}
 	}
-	print('\n');
+	printf('\n');
 }
