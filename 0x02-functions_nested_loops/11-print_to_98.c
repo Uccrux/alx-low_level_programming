@@ -3,7 +3,7 @@
 /**
  * print_to_98 - fron n to 98
  * @n: integer
- *
+ * followed by a new line 
  * Return: this function print from n to 98
  */
 void print_to_98(int n)
