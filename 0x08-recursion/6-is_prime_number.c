@@ -12,8 +12,9 @@ int find(int a, int b)
 		return (0);
 	else if (a > b / 2)
 		return (1);
-	else
+	{
 		return (find(a + 1, b));
+	}
 }
 
 /**
